@@ -1,0 +1,242 @@
+{
+  "id": "socialni-psychologie",
+  "title": "Sociální psychologie",
+  "description": "Komplexní průvodce sociální psychologií - od základních pojmů po praktické aplikace",
+  "content": [],
+  "quiz": [],
+  "estimatedReadingTime": 35,
+  "isMultiPage": true,
+  "pages": [
+    {
+      "id": "page-1",
+      "title": "Úvod a historický vývoj",
+      "content": [
+        "Sociální psychologie je oblast psychologie, která studuje, jak myšlenky, pocity a chování jednotlivců ovlivňují a jsou ovlivňovány přítomností jiných lidí. Na rozdíl od sociologie, která se zaměřuje na společnost jako celek, sociální psychologie klade důraz na psychické procesy jednotlivce v sociálním kontextu.",
+        "**Průkopníci oboru**",
+        "**Norman Triplett** (**1861-1931**) - často považován za zakladatele experimentální sociální psychologie. V roce **1898** provedl první experimentální studii o *sociální facilitaci*.",
+        "• Příklad: **Triplett** pozoroval, že cyklisté jezdí rychleji v přítomnosti jiných závodníků než při jízdě o samotě. Tento jev nazval *sociální facilitace* - zlepšení výkonu v přítomnosti druhých při jednoduchých nebo dobře naučených úkolech.",
+        "**Floyd Allport** (**1890-1978**) - napsal první učebnici sociální psychologie (**1924**) a zdůraznil důležitost experimentální metody v oboru.",
+        "• Příklad: **Allport** zkoumal, jak se lidé chovají odlišně, když jsou sami versus v přítomnosti skupiny, což položilo základy pro studium skupinové dynamiky.",
+        "**Moderní průkopníci**",
+        "**Kurt Lewin** (**1890-1947**) - německo-americký psycholog považovaný za \"otce moderní sociální psychologie\". Vyvinul *teorii pole* a zdůraznil važnost situačních faktorů v chování.",
+        "• Základní rovnice: Chování = f(Osoba, Prostředí) - B = f(P,E)",
+        "• Příklad: **Lewin** ukázal, že agresivní chování dítěte není pouze výsledkem jeho osobnosti, ale také situace, ve které se nachází. Dítě může být klidné doma, ale agresivní ve škole kvůli odlišnému prostředí a očekáváním.",
+        "**Leon Festinger** (**1919-1989**) - vyvinul *teorii kognitivní disonance* a přispěl k pochopení skupinových procesů.",
+        "• Příklad: Festingerova studie sekty, která předpovídala konec světa. Když se předpověď nenaplnila, členové sekty nezačali ve svou víru pochybovat, ale naopak ji posílili tím, že si řekli, že jejich víra svět zachránila."
+      ],
+      "questions": [
+        {
+          "id": "q1-1",
+          "question": "Kdo je považován za zakladatele experimentální sociální psychologie?",
+          "options": [
+            "Kurt Lewin",
+            "Norman Triplett",
+            "Leon Festinger",
+            "Floyd Allport"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Norman Triplett (1861-1931) je často považován za zakladatele experimentální sociální psychologie díky svému experimentu o sociální facilitaci z roku 1898."
+        },
+        {
+          "id": "q1-2",
+          "question": "Co je sociální facilitace podle Tripletta?",
+          "options": [
+            "Zhoršení výkonu v přítomnosti druhých",
+            "Zlepšení výkonu v přítomnosti druhých při jednoduchých úkolech",
+            "Změna chování ve skupině",
+            "Vliv skupiny na rozhodování"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Sociální facilitace podle Tripletta znamená zlepšení výkonu v přítomnosti druhých při jednoduchých nebo dobře naučených úkolech."
+        },
+        {
+          "id": "q1-3",
+          "question": "Jaká je Lewinova základní rovnice chování?",
+          "options": [
+            "B = f(P)",
+            "B = f(E)",
+            "B = f(P,E)",
+            "B = f(G)"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Lewinova základní rovnice je B = f(P,E), což znamená, že chování je funkcí osoby a prostředí."
+        }
+      ],
+      "estimatedReadingTime": 10
+    },
+    {
+      "id": "page-2",
+      "title": "Komunikace a atribuce",
+      "content": [
+        "**Komunikace v sociální psychologii**",
+        "Komunikace je základním procesem sociální interakce. Zahrnuje nejen verbální sdělování, ale také neverbální signály, které často nesou více informací než slova samotná.",
+        "**Neverbální komunikace**",
+        "• **Mimika**: Výrazy obličeje jsou univerzální napříč kulturami",
+        "• **Gestika**: Pohyby rukou a těla, které mohou mít kulturně specifické významy",
+        "• **Proxemika**: Využívání prostoru a vzdálenosti v komunikaci",
+        "• **Paralingvistika**: Tón hlasu, tempo řeči, pauzy",
+        "**Atribuční teorie**",
+        "Atribuce je proces, kterým vysvětlujeme příčiny chování - svého i ostatních. **Fritz Heider** rozlišil dva typy atribucí:",
+        "• **Vnitřní atribuce**: Chování přisuzujeme osobnostním rysům",
+        "• **Vnější atribuce**: Chování přisuzujeme situačním faktorům",
+        "**Atribuční chyby**",
+        "• **Fundamentální atribuční chyba**: Tendence přeceňovat vliv osobnosti a podceňovat situaci při vysvětlování chování druhých",
+        "• **Sebezvýhodňující atribuce**: Úspěchy přisuzujeme sobě, neúspěchy vnějším faktorům"
+      ],
+      "questions": [
+        {
+          "id": "q2-1",
+          "question": "Co je fundamentální atribuční chyba?",
+          "options": [
+            "Přeceňování situačních faktorů",
+            "Přeceňování osobnostních rysů při vysvětlování chování druhých",
+            "Podceňování vlastních schopností",
+            "Ignorování neverbální komunikace"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Fundamentální atribuční chyba je tendence přeceňovat vliv osobnosti a podceňovat situaci při vysvětlování chování druhých."
+        }
+      ],
+      "estimatedReadingTime": 8
+    },
+    {
+      "id": "page-3",
+      "title": "Postoje a kognitivní disonance",
+      "content": [
+        "**Postoje**",
+        "Postoj je relativně trvalé hodnocení osoby, objektu nebo myšlenky. Skládá se ze tří komponentů:",
+        "• **Kognitivní**: Přesvědčení a znalosti",
+        "• **Afektivní**: Emocionální reakce",
+        "• **Behaviorální**: Tendence k určitému chování",
+        "**Kognitivní disonance**",
+        "**Leon Festinger** popsal kognitivní disonanci jako nepříjemný stav, který vzniká, když máme protichůdné postoje nebo když naše chování neodpovídá našim postojům.",
+        "**Způsoby redukce disonance:**",
+        "• Změna postoje",
+        "• Změna chování",
+        "• Přidání nových kognitivních elementů",
+        "• Snížení důležitosti konfliktu"
+      ],
+      "questions": [
+        {
+          "id": "q3-1",
+          "question": "Co je kognitivní disonance?",
+          "options": [
+            "Harmonie mezi postoji",
+            "Nepříjemný stav při protichůdných postojích",
+            "Změna chování",
+            "Emocionální reakce"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Kognitivní disonance je nepříjemný stav, který vzniká při protichůdných postojích nebo když chování neodpovídá postojům."
+        }
+      ],
+      "estimatedReadingTime": 7
+    },
+    {
+      "id": "page-4",
+      "title": "Konformita a poslušnost",
+      "content": [
+        "**Konformita**",
+        "Konformita je změna chování nebo postojů v důsledku skutečného nebo domnělého skupinového tlaku.",
+        "**Aschovy experimenty**",
+        "**Solomon Asch** ukázal, že lidé často souhlasí s očividně nesprávnými odpověďmi, pokud je podporuje většina skupiny.",
+        "**Faktory ovlivňující konformitu:**",
+        "• Velikost skupiny",
+        "• Jednomyslnost",
+        "• Soudržnost skupiny",
+        "• Status ve skupině",
+        "• Kulturní faktory",
+        "**Poslušnost**",
+        "**Stanley Milgram** studoval poslušnost vůči autoritě v kontroverzních experimentech s elektrickými šoky.",
+        "**Faktory zvyšující poslušnost:**",
+        "• Legitimita autority",
+        "• Blízkost autority",
+        "• Postupné zvyšování požadavků",
+        "• Institucionální kontext"
+      ],
+      "questions": [
+        {
+          "id": "q4-1",
+          "question": "Co ukázaly Aschovy experimenty?",
+          "options": [
+            "Lidé jsou vždy nezávislí",
+            "Lidé často souhlasí s nesprávnými odpověďmi kvůli skupinovému tlaku",
+            "Skupiny vždy dělají správná rozhodnutí",
+            "Konformita neexistuje"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Aschovy experimenty ukázaly, že lidé často souhlasí s očividně nesprávnými odpověďmi, pokud je podporuje většina skupiny."
+        }
+      ],
+      "estimatedReadingTime": 9
+    },
+    {
+      "id": "page-5",
+      "title": "Sociální role a difúze zodpovědnosti",
+      "content": [
+        "**Sociální role**",
+        "Sociální role jsou očekávané vzorce chování spojené s určitou pozicí ve společnosti.",
+        "**Stanfordský vězeňský experiment**",
+        "**Philip Zimbardo** ukázal, jak mocně mohou sociální role ovlivnit chování. Studenti přidělení do rolí vězňů a dozorců rychle přijali odpovídající chování.",
+        "**Difúze zodpovědnosti**",
+        "Jev, kdy se individuální zodpovědnost snižuje s počtem přítomných lidí.",
+        "**Efekt přihlížejícího**",
+        "Tendence nepomoci v nouzové situaci, když jsou přítomni další lidé.",
+        "**Faktory ovlivňující pomoc:**",
+        "• Počet přihlížejících",
+        "• Jasnost situace",
+        "• Časový tlak",
+        "• Podobnost oběti",
+        "• Nálada pomocníka"
+      ],
+      "questions": [
+        {
+          "id": "q5-1",
+          "question": "Co je efekt přihlížejícího?",
+          "options": [
+            "Tendence více pomáhat ve skupině",
+            "Tendence nepomoci v nouzové situaci, když jsou přítomni další lidé",
+            "Zvýšená pozornost ve skupině",
+            "Lepší rozhodování ve skupině"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Efekt přihlížejícího je tendence nepomoci v nouzové situaci, když jsou přítomni další lidé, kvůli difúzi zodpovědnosti."
+        }
+      ],
+      "estimatedReadingTime": 12
+    },
+    {
+      "id": "page-6",
+      "title": "Praktické aplikace",
+      "content": [
+        "**Praktické aplikace sociální psychologie**",
+        "**V každodenním životě**",
+        "• Marketing a reklama: Využití principů přesvědčování a postojů",
+        "• Vzdělávání: Aplikace poznatků o skupinové dynamice ve třídě",
+        "• Řízení: Využití znalostí o konformitě a poslušnosti v managementu",
+        "• Právní systém: Porozumění vlivu skupinového tlaku na svědectví",
+        "**V profesionální praxi**",
+        "• Klinická psychologie: Práce s klienty v kontextu jejich sociálních vztahů",
+        "• Organizační psychologie: Optimalizace týmové práce a komunikace",
+        "• Mediace: Využití principů komunikace a řešení konfliktů",
+        "• Veřejná politika: Navrhování kampaní pro změnu postojů veřejnosti",
+        "Sociální psychologie poskytuje klíčové poznatky o tom, jak fungujeme jako sociální bytosti, a tyto poznatky mají široké uplatnění v mnoha oblastech lidského života."
+      ],
+      "questions": [
+        {
+          "id": "q6-1",
+          "question": "V které oblasti se NEVYUŽÍVAJÍ poznatky sociální psychologie?",
+          "options": [
+            "Marketing a reklama",
+            "Klinická psychologie",
+            "Astronomie",
+            "Organizační psychologie"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Astronomie se nezabývá lidským chováním a sociálními procesy, takže poznatky sociální psychologie zde nejsou přímo aplikovatelné, na rozdíl od marketingu, klinické psychologie a organizační psychologie."
+        }
+      ],
+      "estimatedReadingTime": 8
+    }
+  ]
+}

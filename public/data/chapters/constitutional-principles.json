@@ -1,0 +1,28 @@
+{
+  "id": "constitutional-principles",
+  "title": "Ústavní principy",
+  "description": "Základní principy ústavního práva a jejich aplikace v praxi",
+  "content": [
+    "Ústavní principy představují základní hodnoty a pravidla, na kterých je postavena celá právní soustava demokratického státu. Tyto principy tvoří základ pro interpretaci a aplikaci všech ostatních právních norem a zajišťují ochranu základních práv a svobod občanů.",
+    "Princip právního státu je jedním z nejdůležitějších ústavních principů. Znamená, že všechna státní moc je vázána právem a musí postupovat v souladu s platnými právními předpisy. Žádná osoba ani instituce nestojí nad zákonem a všichni jsou před zákonem rovni.",
+    "Dělba moci je dalším klíčovým principem, který rozděluje státní moc na tři nezávislé složky: moc zákonodárnou, výkonnou a soudní. Tento princip zabraňuje koncentraci moci v rukou jedné osoby nebo instituce a vytváří systém vzájemných kontrol a rovnováhy.",
+    "Princip ochrany základních práv a svobod zaručuje, že stát musí respektovat a chránit přirozená práva každého člověka. Tato práva jsou nezcizitelná a nemohou být státem svévolně omezena nebo zrušena."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "Co znamená princip právního státu?",
+      "options": ["Stát může dělat cokoliv", "Všechna státní moc je vázána právem", "Pouze soudci rozhodují o zákonech"],
+      "correctAnswer": 1,
+      "explanation": "Princip právního státu znamená, že všechna státní moc je vázána právem a musí postupovat v souladu s platnými právními předpisy."
+    },
+    {
+      "id": "q2",
+      "question": "Na kolik složek se dělí státní moc podle principu dělby moci?",
+      "options": ["2", "3", "4"],
+      "correctAnswer": 1,
+      "explanation": "Státní moc se dělí na tři nezávislé složky: zákonodárnou, výkonnou a soudní."
+    }
+  ],
+  "estimatedReadingTime": 6
+}

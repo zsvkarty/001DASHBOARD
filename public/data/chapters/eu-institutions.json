@@ -1,0 +1,29 @@
+{
+  "id": "eu-institutions",
+  "title": "Instituce Evropské unie",
+  "description": "Přehled hlavních institucí EU a jejich funkcí",
+  "content": [
+    "Evropská unie funguje prostřednictvím komplexního systému institucí, které zajišťují její chod a rozhodování. Každá instituce má své specifické úlohy a pravomoci, které se vzájemně doplňují a kontrolují.",
+    "Evropský parlament je jedinou přímo volenou institucí EU. Jeho členové jsou voleni občany členských států na pětileté období. Parlament má zákonodárné pravomoci, kontroluje ostatní instituce a schvaluje rozpočet EU.",
+    "Rada Evropské unie, často nazývaná jen Rada, je institucí, kde se setkávají ministři z členských států podle oblasti, kterou projednávají. Rada spolu s Parlamentem tvoří zákonodárnou moc EU.",
+    "Evropská komise je výkonnou mocí EU. Skládá se z komisařů z každého členského státu a má právo předkládat legislativní návrhy. Komise také dohlíží na dodržování evropského práva.",
+    "Soudní dvůr Evropské unie zajišťuje jednotný výklad a aplikaci evropského práva ve všech členských státech. Rozhoduje spory mezi institucemi, členskými státy i jednotlivci."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "Která instituce EU je přímo volena občany?",
+      "options": ["Evropská komise", "Evropský parlament", "Rada EU"],
+      "correctAnswer": 1,
+      "explanation": "Evropský parlament je jedinou přímo volenou institucí EU, jeho členové jsou voleni občany členských států."
+    },
+    {
+      "id": "q2",
+      "question": "Která instituce má právo předkládat legislativní návrhy?",
+      "options": ["Evropský parlament", "Evropská komise", "Soudní dvůr EU"],
+      "correctAnswer": 1,
+      "explanation": "Evropská komise má právo předkládat legislativní návrhy a je výkonnou mocí EU."
+    }
+  ],
+  "estimatedReadingTime": 7
+}

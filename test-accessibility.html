@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Textbook Module - Accessibility Test</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Test styles for mobile responsiveness */
+        .mobile-test { max-width: 375px; margin: 0 auto; border: 2px solid #ccc; }
+        .tablet-test { max-width: 768px; margin: 0 auto; border: 2px solid #ccc; }
+    </style>
+</head>
+<body class="bg-gray-100 p-4">
+    <h1 class="text-2xl font-bold mb-4">Digital Textbook Module - Accessibility & Mobile Test</h1>
+    
+    <!-- Mobile View Test -->
+    <div class="mobile-test mb-8 p-4 bg-white rounded-lg">
+        <h2 class="text-lg font-bold mb-2">Mobile View (375px)</h2>
+        <section class="p-4 sm:p-6" aria-labelledby="chapter-list-heading">
+            <div class="mb-6">
+                <h2 id="chapter-list-heading" class="text-2xl font-bold text-gray-900 dark:text-white mb-2">
+                    Dostupné kapitoly
+                </h2>
+                <p class="text-gray-600 dark:text-gray-300">
+                    Vyberte kapitolu pro studium a následné testování
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6" role="list">
+                <div
+                    role="listitem"
+                    tabindex="0"
+                    class="bg-white dark:bg-gray-800 rounded-lg shadow-md hover:shadow-lg 
+                           focus:shadow-lg focus:ring-2 focus:ring-blue-500 focus:ring-offset-2
+                           transition-all duration-300 cursor-pointer transform hover:scale-105 
+                           focus:scale-105 border border-gray-200 dark:border-gray-700
+                           min-h-[180px] touch-manipulation"
+                    aria-label="Maastrichtská smlouva - Dokončeno - 8 minut čtení"
+                >
+                    <div class="p-6">
+                        <div class="flex items-start justify-between mb-3">
+                            <h3 class="text-lg font-semibold text-gray-900 dark:text-white line-clamp-2 flex-1 mr-3">
+                                Maastrichtská smlouva
+                            </h3>
+                            <div class="flex-shrink-0" aria-hidden="true">
+                                <div 
+                                    class="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center"
+                                    title="Kapitola dokončena"
+                                >
+                                    <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+
+                        <p class="text-gray-600 dark:text-gray-300 text-sm mb-4 line-clamp-3">
+                            Základní informace o Maastrichtské smlouvě a jejím významu pro Evropskou unii
+                        </p>
+
+                        <div class="flex items-center justify-between text-xs text-gray-500 dark:text-gray-400">
+                            <div class="flex items-center">
+                                <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                </svg>
+                                <span>8 min čtení</span>
+                            </div>
+                            <div class="flex items-center">
+                                <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                                </svg>
+                                <span>2 otázek</span>
+                            </div>
+                        </div>
+
+                        <div class="mt-3 pt-3 border-t border-gray-200 dark:border-gray-700">
+                            <div class="flex items-center justify-between text-xs">
+                                <span class="text-green-600 dark:text-green-400 font-medium">
+                                    Dokončeno
+                                </span>
+                                <span class="text-gray-600 dark:text-gray-300">
+                                    Skóre: 85%
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- Tablet View Test -->
+    <div class="tablet-test mb-8 p-4 bg-white rounded-lg">
+        <h2 class="text-lg font-bold mb-2">Tablet View (768px)</h2>
+        <section class="p-4 sm:p-6" aria-labelledby="chapter-list-heading-2">
+            <div class="mb-6">
+                <h2 id="chapter-list-heading-2" class="text-2xl font-bold text-gray-900 dark:text-white mb-2">
+                    Dostupné kapitoly
+                </h2>
+                <p class="text-gray-600 dark:text-gray-300">
+                    Vyberte kapitolu pro studium a následné testování
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6" role="list">
+                <div
+                    role="listitem"
+                    tabindex="0"
+                    class="bg-white dark:bg-gray-800 rounded-lg shadow-md hover:shadow-lg 
+                           focus:shadow-lg focus:ring-2 focus:ring-blue-500 focus:ring-offset-2
+                           transition-all duration-300 cursor-pointer transform hover:scale-105 
+                           focus:scale-105 border border-gray-200 dark:border-gray-700
+                           min-h-[180px] touch-manipulation"
+                    aria-label="Maastrichtská smlouva - Dokončeno - 8 minut čtení"
+                >
+                    <div class="p-6">
+                        <div class="flex items-start justify-between mb-3">
+                            <h3 class="text-lg font-semibold text-gray-900 dark:text-white line-clamp-2 flex-1 mr-3">
+                                Maastrichtská smlouva
+                            </h3>
+                            <div class="flex-shrink-0" aria-hidden="true">
+                                <div 
+                                    class="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center"
+                                    title="Kapitola dokončena"
+                                >
+                                    <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+
+                        <p class="text-gray-600 dark:text-gray-300 text-sm mb-4 line-clamp-3">
+                            Základní informace o Maastrichtské smlouvě a jejím významu pro Evropskou unii
+                        </p>
+
+                        <div class="flex items-center justify-between text-xs text-gray-500 dark:text-gray-400">
+                            <div class="flex items-center">
+                                <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                </svg>
+                                <span>8 min čtení</span>
+                            </div>
+                            <div class="flex items-center">
+                                <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                                </svg>
+                                <span>2 otázek</span>
+                            </div>
+                        </div>
+
+                        <div class="mt-3 pt-3 border-t border-gray-200 dark:border-gray-700">
+                            <div class="flex items-center justify-between text-xs">
+                                <span class="text-green-600 dark:text-green-400 font-medium">
+                                    Dokončeno
+                                </span>
+                                <span class="text-gray-600 dark:text-gray-300">
+                                    Skóre: 85%
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div
+                    role="listitem"
+                    tabindex="0"
+                    class="bg-white dark:bg-gray-800 rounded-lg shadow-md hover:shadow-lg 
+                           focus:shadow-lg focus:ring-2 focus:ring-blue-500 focus:ring-offset-2
+                           transition-all duration-300 cursor-pointer transform hover:scale-105 
+                           focus:scale-105 border border-gray-200 dark:border-gray-700
+                           min-h-[180px] touch-manipulation"
+                    aria-label="Evropská unie - Nedokončeno - 5 minut čtení"
+                >
+                    <div class="p-6">
+                        <div class="flex items-start justify-between mb-3">
+                            <h3 class="text-lg font-semibold text-gray-900 dark:text-white line-clamp-2 flex-1 mr-3">
+                                Evropská unie
+                            </h3>
+                            <div class="flex-shrink-0" aria-hidden="true">
+                                <div 
+                                    class="w-6 h-6 border-2 border-gray-300 dark:border-gray-600 rounded-full"
+                                    title="Kapitola nedokončena"
+                                ></div>
+                            </div>
+                        </div>
+
+                        <p class="text-gray-600 dark:text-gray-300 text-sm mb-4 line-clamp-3">
+                            Historie a vývoj Evropské unie
+                        </p>
+
+                        <div class="flex items-center justify-between text-xs text-gray-500 dark:text-gray-400">
+                            <div class="flex items-center">
+                                <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                </svg>
+                                <span>5 min čtení</span>
+                            </div>
+                            <div class="flex items-center">
+                                <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                                </svg>
+                                <span>1 otázek</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <div class="mt-8 p-4 bg-blue-50 rounded-lg">
+        <h2 class="text-lg font-bold mb-2">Accessibility Features Implemented:</h2>
+        <ul class="list-disc list-inside space-y-1 text-sm">
+            <li>✅ Semantic HTML with proper section, heading hierarchy, and list roles</li>
+            <li>✅ ARIA labels for screen readers with completion status and reading time</li>
+            <li>✅ Keyboard navigation support with tabindex and focus styles</li>
+            <li>✅ Touch-friendly interactions with minimum 44px touch targets</li>
+            <li>✅ Responsive design that works on mobile, tablet, and desktop</li>
+            <li>✅ Proper focus management with visible focus indicators</li>
+            <li>✅ Screen reader friendly with aria-hidden for decorative elements</li>
+            <li>✅ Meaningful titles and labels for all interactive elements</li>
+        </ul>
+    </div>
+
+    <div class="mt-4 p-4 bg-green-50 rounded-lg">
+        <h2 class="text-lg font-bold mb-2">Test Instructions:</h2>
+        <ol class="list-decimal list-inside space-y-1 text-sm">
+            <li>Try navigating with Tab key - focus should be visible and logical</li>
+            <li>Press Enter or Space on focused chapter cards - they should be activatable</li>
+            <li>Resize browser window to test responsive behavior</li>
+            <li>Use screen reader to test ARIA labels and semantic structure</li>
+            <li>Test on mobile device for touch interactions</li>
+        </ol>
+    </div>
+
+    <script>
+        // Add keyboard event listeners for testing
+        document.addEventListener('keydown', function(e) {
+            if (e.target.getAttribute('role') === 'listitem') {
+                if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault();
+                    alert('Chapter selected: ' + e.target.getAttribute('aria-label'));
+                }
+            }
+        });
+
+        // Add click event listeners for testing
+        document.querySelectorAll('[role="listitem"]').forEach(item => {
+            item.addEventListener('click', function() {
+                alert('Chapter selected: ' + this.getAttribute('aria-label'));
+            });
+        });
+    </script>
+</body>
+</html>

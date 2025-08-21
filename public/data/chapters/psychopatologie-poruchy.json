@@ -1,0 +1,34 @@
+{
+  "id": "psychopatologie-poruchy",
+  "title": "Psychopatologie a poruchy",
+  "description": "Studium abnormálních vzorců chování, klasifikace a léčba psychických poruch",
+  "content": [
+    "Psychopatologie je věda zabývající se studiem abnormálních nebo maladaptivních vzorců chování, myšlení a emocí. Zabývá se popisem, klasifikací, etiologií (příčinami), diagnostikou a léčbou psychických poruch.",
+    "**Historický vývoj pohledu na duševní poruchy**",
+    "Psychopatologie se historicky vyvíjela od nadpřirozených a náboženských vysvětlení duševních nemocí až po současné bio-psycho-sociální modely.",
+    "**Klasifikační systémy**",
+    "*DSM* (Diagnostický a statistický manuál duševních poruch) - vyvinutý Americkou psychiatrickou asociací, používá kategorický přístup k diagnostice.",
+    "*MKN* (Mezinárodní klasifikace nemocí) - vyvinutá Světovou zdravotnickou organizací.",
+    "**Poruchy nálad**",
+    "Zahrnují *depresivní poruchy*, *bipolární poruchy* a další poruchy ovlivňující náladu a emocionální stav.",
+    "**Psychotické poruchy**",
+    "*Schizofrenie* je chronická psychotická porucha ovlivňující myšlení, vnímání, emoce a chování."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "Co studuje psychopatologie?",
+      "options": ["Normální chování", "Abnormální vzorce chování", "Pouze deprese", "Jen dětské poruchy"],
+      "correctAnswer": 1,
+      "explanation": "Psychopatologie studuje abnormální nebo maladaptivní vzorce chování, myšlení a emocí."
+    },
+    {
+      "id": "q2",
+      "question": "Co znamená zkratka DSM?",
+      "options": ["Diagnostický systém medicíny", "Diagnostický a statistický manuál duševních poruch", "Databáze symptomů a medicíny", "Dokumentace symptomů a metod"],
+      "correctAnswer": 1,
+      "explanation": "DSM znamená Diagnostický a statistický manuál duševních poruch."
+    }
+  ],
+  "estimatedReadingTime": 20
+}

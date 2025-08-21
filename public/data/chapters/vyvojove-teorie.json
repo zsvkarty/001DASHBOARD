@@ -1,0 +1,431 @@
+{
+  "id": "vyvojove-teorie",
+  "title": "Vývojové teorie",
+  "description": "Komplexní průvodce vývojovými teoriemi - od Freuda po moderní přístupy",
+  "content": [],
+  "quiz": [],
+  "estimatedReadingTime": 45,
+  "isMultiPage": true,
+  "pages": [
+    {
+      "id": "page-1",
+      "title": "Úvod do vývojových teorií",
+      "content": [
+        "Vývojové teorie se zabývají psychickým vývojem jedince v průběhu života. Popisují, jak se v jednotlivých obdobích mění kognitivní schopnosti, osobnost, sociální vztahy a další aspekty psychiky.",
+        "**Charakteristiky vývojových teorií**",
+        "Vývojové teorie většinou popisují vývoj jako sekvenci stádií, kterými každý jedinec postupně prochází. Tyto teorie se snaží odpovědět na základní otázky o lidském vývoji:",
+        "• **Kdy** se určité změny objevují?",
+        "• **Jak** probíhá proces změny?",
+        "• **Proč** k těmto změnám dochází?",
+        "• **Jaké faktory** ovlivňují vývoj?",
+        "**Klíčové koncepty vývojových teorií**",
+        "**Stádia vs. kontinuita** - Otázka, zda vývoj probíhá v oddělených stádiích nebo plynule.",
+        "• Příklad: Zatímco Piaget tvrdil, že děti procházejí jasnými stádii kognitivního vývoje, novější výzkumy naznačují, že vývoj může být plynulejší, s postupným zdokonalováním dovedností.",
+        "**Kritická vs. senzitivní období** - Časové úseky, kdy je jedinec zvláště vnímavý k určitým zkušenostem.",
+        "• Příklad: Schopnost naučit se jazyk se vyvíjí nejlépe v prvních letech života. Děti, které byly extrémně izolované od lidské řeči do puberty, nikdy nerozvinou plně gramaticky správný jazyk.",
+        "**Vliv přírody vs. výchovy** - Debata o tom, nakolik je vývoj určen geneticky a nakolik prostředím.",
+        "• Příklad: Studie dvojčat ukazují, že temperament má silnou genetickou složku, zatímco specifické zájmy a hodnoty jsou více ovlivněny prostředím a výchovou.",
+        "**Význam vývojových teorií**",
+        "Porozumění vývojovým teoriím pomáhá psychologům, pedagogům i rodičům lépe chápat potřeby jedinců v různých životních fázích a podporovat optimální vývoj. Tyto teorie poskytují rámec pro:",
+        "• Pochopení normálního vývoje",
+        "• Identifikaci vývojových problémů",
+        "• Navrhování vhodných intervencí",
+        "• Optimalizaci vzdělávacích přístupů"
+      ],
+      "questions": [
+        {
+          "id": "q1-1",
+          "question": "Čím se zabývají vývojové teorie?",
+          "options": [
+            "Pouze dětským věkem",
+            "Psychickým vývojem jedince v průběhu života",
+            "Pouze kognitivními schopnostmi",
+            "Pouze sociálními vztahy"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Vývojové teorie se zabývají psychickým vývojem jedince v průběhu celého života, včetně kognitivních schopností, osobnosti a sociálních vztahů."
+        },
+        {
+          "id": "q1-2",
+          "question": "Co jsou kritická období ve vývoji?",
+          "options": [
+            "Období krizí",
+            "Časové úseky zvláštní vnímavosti k určitým zkušenostem",
+            "Období nemoci",
+            "Pouze puberta"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Kritická období jsou časové úseky, kdy je jedinec zvláště vnímavý k určitým zkušenostem, například učení se jazyku v raném dětství."
+        },
+        {
+          "id": "q1-3",
+          "question": "Jaký je rozdíl mezi stádii a kontinuitou ve vývoji?",
+          "options": [
+            "Žádný rozdíl není",
+            "Stádia jsou oddělené fáze, kontinuita je plynulý vývoj",
+            "Stádia jsou pouze pro děti",
+            "Kontinuita je pouze pro dospělé"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Stádia představují oddělené vývojové fáze, zatímco kontinuita popisuje plynulý, postupný vývoj bez jasných hranic."
+        }
+      ],
+      "estimatedReadingTime": 8
+    },
+    {
+      "id": "page-2",
+      "title": "Freudova psychoanalytická teorie",
+      "content": [
+        "**Sigmund Freud** (**1856-1939**) byl rakouský neurolog a zakladatel psychoanalýzy. Jako první systematicky popsal vývoj osobnosti a jeho koncept psychosexuálního vývoje patří k nejznámějším vývojovým teoriím.",
+        "Freud věřil, že osobnost je formována v prvních pěti letech života, kdy dítě prochází různými fázemi, ve kterých se libido (sexuální energie) soustředí na různé části těla. Způsob, jakým rodiče reagují na potřeby dítěte v každé fázi, může vést k fixaci (uvíznutí v dané fázi), což ovlivňuje pozdější osobnost.",
+        "**Hlavní fáze psychosexuálního vývoje:**",
+        "**Orální fáze** (**0-1,5 roku**) - uspokojení je spojeno s ústy a orálními aktivitami (sání, kousání).",
+        "• Příklad: Dítě poznává svět prostřednictvím úst, vkládá do nich různé předměty. Nedostatečné uspokojení v této fázi může podle Freuda vést k závislosti na orálních aktivitách v dospělosti, jako je kouření, přejídání nebo nadměrné mluvení.",
+        "**Anální fáze** (**1,5-3 roky**) - libido se soustředí na oblast konečníku, dítě objevuje potěšení a kontrolu při zadržování a vypouštění exkrementů.",
+        "• Příklad: Období učení na toaletu. Příliš přísná výchova může vést k \"anální osobnosti\" - puntičkářství, pořádkumilovnosti, šetrnosti, nebo naopak ke vzdorovitosti a nepořádnosti.",
+        "**Falická fáze** (**3-5 let**) - pozornost se přesouvá na genitálie, dítě objevuje rozdíly mezi pohlavími.",
+        "• Příklad: V této fázi se podle Freuda objevuje Oidipův komplex (u chlapců) nebo Elektřin komplex (u dívek) - dítě pociťuje sexuální přitažlivost k rodiči opačného pohlaví a rivality k rodiči stejného pohlaví. Zdravé vyřešení tohoto konfliktu je zásadní pro formování superega.",
+        "**Latentní fáze** (**5-12 let**) - období relativního psychosexuálního klidu, kdy se sexuální energie transformuje do intelektuálních a sociálních aktivit.",
+        "• Příklad: Dítě se více zajímá o školu, kamarády stejného pohlaví, sport a koníčky. Sexuální impulzy jsou potlačeny a sublimovány.",
+        "**Genitální fáze** (**12+ let**) - puberta znovu aktivuje sexuální impulzy, tentokrát zaměřené na vrstevníky opačného pohlaví.",
+        "• Příklad: Teenager se zamilovává, navazuje romantické vztahy a postupně dosahuje psychosexuální zralosti, pokud v předchozích fázích nedošlo k výrazné fixaci.",
+        "**Kritika Freudovy teorie**",
+        "Freudova teorie bývá kritizována pro:",
+        "• Nedostatek empirických důkazů",
+        "• Přeceňování role sexuality ve vývoji",
+        "• Zaměření pouze na raný vývoj",
+        "• Kulturní a genderové předsudky",
+        "Přesto zůstává historicky významná a ovlivnila mnoho pozdějších teorií."
+      ],
+      "questions": [
+        {
+          "id": "q2-1",
+          "question": "V kterém věku podle Freuda dochází k formování osobnosti?",
+          "options": [
+            "V prvních 3 letech",
+            "V prvních 5 letech",
+            "V pubertě",
+            "V celém dětství"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Podle Freuda je osobnost formována v prvních pěti letech života během různých fází psychosexuálního vývoje."
+        },
+        {
+          "id": "q2-2",
+          "question": "Co charakterizuje anální fázi?",
+          "options": [
+            "Soustředění na ústa",
+            "Soustředění na oblast konečníku a kontrolu",
+            "Objevování rozdílů mezi pohlavími",
+            "Zájem o vrstevníky"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Anální fáze (1,5-3 roky) je charakterizována soustředěním libida na oblast konečníku a objevováním kontroly při vypouštění exkrementů."
+        },
+        {
+          "id": "q2-3",
+          "question": "Co je to fixace podle Freuda?",
+          "options": [
+            "Normální vývoj",
+            "Uvíznutí v určité vývojové fázi",
+            "Rychlý přechod mezi fázemi",
+            "Přeskočení fáze"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Fixace je uvíznutí v určité vývojové fázi, které může ovlivnit pozdější osobnost a chování."
+        }
+      ],
+      "estimatedReadingTime": 12
+    },
+    {
+      "id": "page-3",
+      "title": "Eriksonova teorie psychosociálního vývoje",
+      "content": [
+        "**Erik Erikson** (**1902-1994**) rozšířil Freudovu teorii a vytvořil teorii zahrnující celý životní cyklus. Na rozdíl od Freuda se zaměřil více na sociální a kulturní faktory ovlivňující vývoj než na sexuální pudy.",
+        "Erikson rozdělil život do osmi stádií, přičemž každé je charakterizováno specifickým psychosociálním konfliktem, který je nutné vyřešit pro zdravý vývoj.",
+        "**Osm stádií psychosociálního vývoje:**",
+        "**1. Základní důvěra vs. nedůvěra** (**0-1,5 roku**) - kojenec se učí, zda je svět bezpečným a předvídatelným místem.",
+        "• Příklad: Když matka dítě nakrmí, když má hlad, poskytne mu teplo a pohodlí, když je mu zima, dítě si vytváří důvěru. Pokud jsou jeho potřeby ignorovány nebo uspokojovány nepředvídatelně, rozvíjí se základní nedůvěra.",
+        "**2. Autonomie vs. stud a pochybnosti** (**1,5-3 roky**) - batolata se učí kontrolovat své tělo a jednání.",
+        "• Příklad: Dítě se učí chodit na nočník, samostatně jíst nebo oblékat se. Rodiče, kteří podporují tyto snahy, i když jsou nedokonalé, pomáhají rozvíjet autonomii. Přehnaná kritika nebo dělání věcí za dítě může vést k pochybnostem o vlastních schopnostech.",
+        "**3. Iniciativa vs. vina** (**3-5 let**) - předškolní děti rozvíjejí iniciativu při plánování a realizaci činností.",
+        "• Příklad: Dítě vymyslí novou hru a přesvědčí kamarády, aby ji hráli. Podpora takových iniciativ rozvíjí podnikavost, zatímco jejich potlačování může vést k pocitům viny.",
+        "**4. Snaživost vs. méněcennost** (**6-12 let**) - školní věk, kdy se děti učí být kompetentní v různých dovednostech.",
+        "• Příklad: Dítě se učí číst, psát, počítat, sportovat. Úspěchy rozvíjejí pocit kompetence, zatímco opakované neúspěchy nebo negativní srovnávání s vrstevníky může vést k pocitům méněcennosti.",
+        "**5. Identita vs. zmatení rolí** (**12-18 let**) - dospívající hledají odpověď na otázku \"Kdo jsem?\".",
+        "• Příklad: Teenager experimentuje s různými rolemi, hodnotami a přesvědčeními, například se zapojí do různých klubů, vyzkouší různé styly oblékání nebo zpochybňuje rodinné hodnoty. Úspěšné vyřešení tohoto konfliktu vede k jasnému pocitu identity.",
+        "**6. Intimita vs. izolace** (**19-40 let**) - mladí dospělí vytvářejí blízké vztahy s ostatními.",
+        "• Příklad: Navazování hlubokých přátelství, romantických vztahů nebo zakládání rodiny. Neschopnost vytvořit tato spojení může vést k osamělosti a izolaci.",
+        "**7. Generativita vs. stagnace** (**40-65 let**) - střední věk je zaměřen na produktivitu a péči o další generace.",
+        "• Příklad: Vedení týmu v práci, mentorování mladších kolegů, výchova dětí, dobrovolnictví v komunitě. Selhání v těchto oblastech může vést k pocitu stagnace a prázdnoty.",
+        "**8. Integrita vs. zoufalství** (**65+ let**) - pozdní dospělost je obdobím reflexe života.",
+        "• Příklad: Senior, který je spokojen s tím, jak žil svůj život, dosahuje pocitu integrity. Naopak ten, kdo lituje svých životních rozhodnutí a cítí, že už nemá čas na změnu, může propadat zoufalství."
+      ],
+      "questions": [
+        {
+          "id": "q3-1",
+          "question": "Kolik stádií zahrnuje Eriksonova teorie?",
+          "options": [
+            "5 stádií",
+            "6 stádií",
+            "8 stádií",
+            "10 stádií"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Eriksonova teorie psychosociálního vývoje zahrnuje osm stádií pokrývajících celý životní cyklus."
+        },
+        {
+          "id": "q3-2",
+          "question": "Jaký je hlavní konflikt v adolescenci podle Eriksona?",
+          "options": [
+            "Autonomie vs. stud",
+            "Identita vs. zmatení rolí",
+            "Intimita vs. izolace",
+            "Iniciativa vs. vina"
+          ],
+          "correctAnswer": 1,
+          "explanation": "V adolescenci (12-18 let) je hlavním konfliktem identita vs. zmatení rolí, kdy dospívající hledají odpověď na otázku \"Kdo jsem?\"."
+        },
+        {
+          "id": "q3-3",
+          "question": "Čím se Eriksonova teorie liší od Freudovy?",
+          "options": [
+            "Zahrnuje celý životní cyklus a zdůrazňuje sociální faktory",
+            "Je kratší",
+            "Zaměřuje se pouze na sexualitu",
+            "Ignoruje raný vývoj"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Eriksonova teorie zahrnuje celý životní cyklus a zdůrazňuje sociální a kulturní faktory, na rozdíl od Freudova zaměření na sexuální pudy a raný vývoj."
+        }
+      ],
+      "estimatedReadingTime": 14
+    },
+    {
+      "id": "page-4",
+      "title": "Piagetova teorie kognitivního vývoje",
+      "content": [
+        "**Jean Piaget** (**1896-1980**) byl švýcarský vývojový psycholog a epistemolog, který studoval vývoj dětského myšlení. Na základě pozorování svých vlastních dětí vytvořil teorii kognitivního vývoje, která popisuje, jak se vyvíjí dětské chápání světa.",
+        "Podle Piageta se děti učí prostřednictvím interakce s prostředím. Když se setkají s novými informacemi, buď je začlení do existujících schémat (asimilace), nebo upraví svá schémata tak, aby odpovídala novým zkušenostem (akomodace).",
+        "**Klíčové koncepty Piagetovy teorie:**",
+        "**Schémata** - mentální struktury, které organizují znalosti a řídí chování.",
+        "**Asimilace** - začlenění nových informací do existujících schémat.",
+        "**Akomodace** - úprava schémat tak, aby odpovídala novým zkušenostem.",
+        "**Čtyři stádia kognitivního vývoje:**",
+        "**1. Senzomotorické stádium** (**0-2 roky**) - děti poznávají svět především prostřednictvím smyslů a pohybů.",
+        "• Příklad: Kojenec, který opakovaně upustí hračku, aby zjistil, že spadne (gravitace), nebo si uvědomí, že věci existují, i když je nevidí (stálost objektu). Na konci tohoto období je dítě schopno základního řešení problémů, například použít hůl k přitažení vzdáleného předmětu.",
+        "**2. Předoperační stádium** (**2-7 let**) - děti začínají používat symboly a jazyk, ale jejich myšlení je egocentrické a intuitivní.",
+        "• Příklad: Dítě si hraje na \"jako by\" - používá banán jako telefon, předstírá, že je lékařem. Zároveň má potíže vidět situaci z perspektivy druhého a chápe svět z vlastního pohledu. Také má problém s konceptem zachování - myslí si, že stejné množství vody ve vyšší, užší sklenici je \"více\" než v nižší, širší sklenici.",
+        "**3. Stádium konkrétních operací** (**7-11 let**) - děti začínají myslet logicky o konkrétních událostech, chápou konzervaci a mohou klasifikovat objekty.",
+        "• Příklad: Dítě již chápe, že stejné množství vody zůstává stejné bez ohledu na tvar nádoby. Dokáže řadit objekty podle velikosti nebo organizovat je do kategorií (např. savci, ptáci). Stále má však potíže s abstraktním myšlením.",
+        "**4. Stádium formálních operací** (**11+ let**) - dospívající jsou schopni abstraktního a hypotetického myšlení.",
+        "• Příklad: Teenager je schopen přemýšlet o hypotetických situacích, používat deduktivní uvažování a řešit abstraktní problémy, jako jsou algebraické rovnice. Může systematicky testovat hypotézy nebo přemýšlet o filozofických otázkách.",
+        "**Kritika Piagetovy teorie**",
+        "Někteří kritici poukazují na to, že Piaget:",
+        "• Podceňuje schopnosti malých dětí",
+        "• Ignoruje vliv sociálního prostředí na poznávání",
+        "• Přeceňuje univerzálnost vývojových stádií",
+        "Přesto zůstává jeho teorie velmi vlivná a byla podpořena mnoha výzkumy."
+      ],
+      "questions": [
+        {
+          "id": "q4-1",
+          "question": "Co je to asimilace podle Piageta?",
+          "options": [
+            "Úprava schémat podle nových zkušeností",
+            "Začlenění nových informací do existujících schémat",
+            "Vytváření nových schémat",
+            "Zapomínání starých schémat"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Asimilace je začlenění nových informací do existujících schémat, zatímco akomodace je úprava schémat podle nových zkušeností."
+        },
+        {
+          "id": "q4-2",
+          "question": "Ve kterém stádiu děti chápou koncept zachování?",
+          "options": [
+            "Senzomotorické",
+            "Předoperační",
+            "Konkrétních operací",
+            "Formálních operací"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Ve stádiu konkrétních operací (7-11 let) děti začínají chápat koncept zachování - že množství zůstává stejné i při změně tvaru."
+        },
+        {
+          "id": "q4-3",
+          "question": "Co charakterizuje stádium formálních operací?",
+          "options": [
+            "Egocentrické myšlení",
+            "Pouze konkrétní myšlení",
+            "Abstraktní a hypotetické myšlení",
+            "Pouze smyslové poznávání"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Stádium formálních operací (11+ let) je charakterizováno schopností abstraktního a hypotetického myšlení."
+        }
+      ],
+      "estimatedReadingTime": 13
+    },
+    {
+      "id": "page-5",
+      "title": "Moderní vývojové teorie",
+      "content": [
+        "Moderní vývojová psychologie často kombinuje poznatky z klasických teorií s novějšími přístupy, které lépe reflektují komplexnost lidského vývoje.",
+        "**Teorie připoutání (Attachment Theory)**",
+        "**John Bowlby** (**1907-1990**) a **Mary Ainsworth** (**1913-1999**) vyvinuli teorii připoutání, která zdůrazňuje význam raných vztahů pro celý život.",
+        "• Příklad: Dítě, které má bezpečné připoutání k pečující osobě, se cítí jistě při zkoumání světa a později snáze navazuje zdravé vztahy. Naopak dítě s nejistým připoutáním může mít problémy s důvěrou a blízkostí.",
+        "**Bioekologický model**",
+        "**Urie Bronfenbrenner** (**1917-2005**) vytvořil model, který popisuje různé úrovně prostředí ovlivňující vývoj:",
+        "• **Mikrosystém**: Přímé prostředí (rodina, škola)",
+        "• **Mezosystém**: Vztahy mezi mikrosystémy",
+        "• **Exosystém**: Nepřímé vlivy (práce rodičů)",
+        "• **Makrosystém**: Kulturní kontext",
+        "• **Chronosystém**: Změny v čase",
+        "• Příklad: Dítě je ovlivněno nejen vztahy v rodině (mikrosystém), ale také ekonomickou situací země (makrosystém) nebo historickými událostmi (chronosystém).",
+        "**Teorie sociálního učení**",
+        "**Albert Bandura** (narozen **1925**) zdůraznil roli pozorování, napodobování a modelování v učení.",
+        "• Příklad: Děti se učí chování pozorováním dospělých a vrstevníků. Experiment s panenkou Bobo ukázal, že děti napodobují agresivní chování, které viděly.",
+        "**Dynamické systémy**",
+        "Tento přístup vidí vývoj jako emergentní vlastnost komplexních interakcí mezi různými faktory.",
+        "• Příklad: Učení se chůze není jen otázkou zrání nervového systému, ale komplexní interakce mezi fyzickým růstem, motivací, prostředím a příležitostmi k procvičování.",
+        "**Neuroplasticita a vývoj mozku**",
+        "Moderní neurovědní výzkum ukazuje, že mozek zůstává plastický po celý život.",
+        "• Příklad: Studie londýnských taxikářů ukázaly, že jejich hipokampus (oblast důležitá pro prostorovou paměť) je větší než u běžné populace, což naznačuje, že intenzivní učení může měnit strukturu mozku i v dospělosti.",
+        "**Pozitivní vývojová psychologie**",
+        "Zaměřuje se na silné stránky a pozitivní aspekty vývoje, nikoli pouze na problémy.",
+        "• Příklad: Místo studia pouze rizikových faktorů u dospívajících se výzkum zaměřuje také na faktory odolnosti (resilience) a pozitivní vývoj identity.",
+        "**Kulturní a kontextuální faktory**",
+        "Moderní teorie zdůrazňují, že vývoj nelze chápat bez ohledu na kulturní kontext.",
+        "• Příklad: Koncept adolescence jako období \"bouře a stresu\" je typický pro západní kultury, ale v mnoha tradičních společnostech přechod do dospělosti probíhá plynuleji prostřednictvím rituálů a jasných rolí."
+      ],
+      "questions": [
+        {
+          "id": "q5-1",
+          "question": "Kdo vyvinul teorii připoutání?",
+          "options": [
+            "Jean Piaget",
+            "John Bowlby a Mary Ainsworth",
+            "Erik Erikson",
+            "Albert Bandura"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Teorii připoutání vyvinuli John Bowlby a Mary Ainsworth, kteří zdůraznili význam raných vztahů pro celý život."
+        },
+        {
+          "id": "q5-2",
+          "question": "Co je mikrosystém v Bronfenbrennerově modelu?",
+          "options": [
+            "Kulturní kontext",
+            "Přímé prostředí jako rodina a škola",
+            "Historické změny",
+            "Ekonomická situace"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Mikrosystém představuje přímé prostředí dítěte, jako je rodina, škola nebo skupina vrstevníků."
+        },
+        {
+          "id": "q5-3",
+          "question": "Co ukazuje výzkum neuroplasticity?",
+          "options": [
+            "Mozek se nemění po narození",
+            "Mozek zůstává plastický po celý život",
+            "Pouze děti se mohou učit",
+            "Učení neovlivňuje mozek"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Výzkum neuroplasticity ukazuje, že mozek zůstává plastický a schopný změn po celý život, nejen v dětství."
+        }
+      ],
+      "estimatedReadingTime": 15
+    },
+    {
+      "id": "page-6",
+      "title": "Srovnání a integrace vývojových teorií",
+      "content": [
+        "**Srovnání hlavních vývojových teorií**",
+        "Každá z vývojových teorií přináší jedinečný pohled na lidský vývoj a má své silné i slabé stránky:",
+        "**Freudova psychoanalytická teorie:**",
+        "• **Silné stránky**: První systematický popis vývoje osobnosti, zdůraznění významu raného dětství",
+        "• **Slabé stránky**: Nedostatek empirických důkazů, přeceňování role sexuality, kulturní předsudky",
+        "• **Příklad aplikace**: Pochopení vlivu raných traumat na pozdější chování",
+        "**Eriksonova psychosociální teorie:**",
+        "• **Silné stránky**: Pokrývá celý životní cyklus, zdůrazňuje sociální faktory, optimistický pohled",
+        "• **Slabé stránky**: Méně specifická ohledně mechanismů vývoje, obtížně testovatelná",
+        "• **Příklad aplikace**: Poradenství v různých životních fázích, práce s krizemi identity",
+        "**Piagetova kognitivní teorie:**",
+        "• **Silné stránky**: Detailní popis kognitivního vývoje, silná empirická podpora, praktické aplikace",
+        "• **Slabé stránky**: Podceňování schopností malých dětí, ignorování sociálních faktorů",
+        "• **Příklad aplikace**: Navrhování vzdělávacích programů odpovídajících kognitivním schopnostem dětí",
+        "**Moderní integrativní přístupy**",
+        "Současná vývojová psychologie se snaží integrovat poznatky z různých teorií:",
+        "**Bio-psycho-sociální model** - uznává, že vývoj je ovlivněn biologickými, psychologickými i sociálními faktory.",
+        "• Příklad: Vývoj jazyka závisí na zrání mozku (biologické), kognitivních schopnostech (psychologické) i sociální interakci (sociální).",
+        "**Transakční model** - zdůrazňuje vzájemné ovlivňování jedince a prostředí.",
+        "• Příklad: Temperament dítěte ovlivňuje, jak s ním rodiče zacházejí, což zpětně ovlivňuje vývoj temperamentu.",
+        "**Vývojová psychopatologie** - studuje, jak se normální a abnormální vývoj vzájemně ovlivňují.",
+        "• Příklad: Pochopení normálního vývoje empatie pomáhá identifikovat a léčit poruchy jako je autismus.",
+        "**Praktické aplikace vývojových teorií**",
+        "**Ve vzdělávání:**",
+        "• Přizpůsobení výuky vývojovým stádiím (Piaget)",
+        "• Podpora autonomie a iniciativy (Erikson)",
+        "• Využití sociálního učení a modelování (Bandura)",
+        "**V klinické praxi:**",
+        "• Terapie zaměřená na vývojové trauma (Freud)",
+        "• Práce s krizemi identity v různých životních fázích (Erikson)",
+        "• Terapie připoutání pro děti a dospělé (Bowlby, Ainsworth)",
+        "**V rodičovství:**",
+        "• Pochopení potřeb dětí v různých věcích",
+        "• Podpora bezpečného připoutání",
+        "• Respektování individuálních rozdílů ve vývoji",
+        "**Budoucnost vývojové psychologie**",
+        "Současné trendy zahrnují:",
+        "• Integraci neurověd a vývojové psychologie",
+        "• Studium epigenetických vlivů na vývoj",
+        "• Zkoumání vlivu digitálních technologií",
+        "• Kulturně senzitivní přístupy k vývoji",
+        "• Pozitivní vývojovou psychologii zaměřenou na silné stránky",
+        "Vývojové teorie nám pomáhají pochopit, jak se lidé mění v průběhu života, a poskytují základ pro podporu optimálního vývoje v různých kontextech. Žádná jednotlivá teorie nevysvětluje všechny aspekty vývoje, ale jejich kombinace nám dává bohatší a komplexnější obraz lidského růstu a změny."
+      ],
+      "questions": [
+        {
+          "id": "q6-1",
+          "question": "Jaká je hlavní výhoda Eriksonovy teorie oproti Freudově?",
+          "options": [
+            "Je kratší",
+            "Pokrývá celý životní cyklus a zdůrazňuje sociální faktory",
+            "Zaměřuje se pouze na sexualitu",
+            "Je méně komplexní"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Eriksonova teorie pokrývá celý životní cyklus a zdůrazňuje sociální a kulturní faktory, na rozdíl od Freudova zaměření na raný vývoj a sexuální pudy."
+        },
+        {
+          "id": "q6-2",
+          "question": "Co je charakteristické pro bio-psycho-sociální model?",
+          "options": [
+            "Zaměřuje se pouze na biologii",
+            "Uznává vliv biologických, psychologických i sociálních faktorů",
+            "Ignoruje prostředí",
+            "Je založen pouze na jedné teorii"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Bio-psycho-sociální model uznává, že vývoj je ovlivněn kombinací biologických, psychologických i sociálních faktorů."
+        },
+        {
+          "id": "q6-3",
+          "question": "Proč je důležité kombinovat různé vývojové teorie?",
+          "options": [
+            "Protože jsou všechny stejné",
+            "Žádná jednotlivá teorie nevysvětluje všechny aspekty vývoje",
+            "Protože jsou všechny špatné",
+            "Není důležité je kombinovat"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Žádná jednotlivá teorie nevysvětluje všechny aspekty vývoje, ale jejich kombinace poskytuje bohatší a komplexnější obraz lidského růstu."
+        }
+      ],
+      "estimatedReadingTime": 16
+    }
+  ]
+}

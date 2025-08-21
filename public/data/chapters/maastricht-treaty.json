@@ -1,0 +1,37 @@
+{
+  "id": "maastricht-treaty",
+  "title": "Maastrichtská smlouva",
+  "description": "Základní informace o Maastrichtské smlouvě a jejím významu pro Evropskou unii",
+  "content": [
+    "Maastrichtská smlouva, oficiálně známá jako Smlouva o Evropské unii, byla podepsána 7. února 1992 v nizozemském městě Maastricht. Tato smlouva představovala zásadní milník v procesu evropské integrace a položila základy pro vznik Evropské unie v její současné podobě. Kromě politického významu byla Maastrichtská smlouva také symbolem nové éry spolupráce mezi evropskými státy po konci studené války.",
+    "Smlouva vstoupila v platnost 1. listopadu 1993 a nahradila tak původní Smlouvy o založení Evropských společenství. Jejím hlavním cílem bylo prohloubení evropské integrace a vytvoření politické unie mezi členskými státy. Zavedla koncept evropského občanství, které poskytuje občanům členských států dodatečná práva a svobody, jako například právo volit a být volen v místních a evropských volbách v jakémkoli členském státě. Dále rozšířila kompetence Evropských společenství do nových oblastí, jako je například vzdělávání, kultura a veřejné zdraví.",
+    "Jedním z nejdůležitějších aspektů Maastrichtské smlouvy bylo vytvoření Hospodářské a měnové unie (HMU). Smlouva stanovila tříetapový plán pro zavedení společné evropské měny – eura. První etapa začala v roce 1990 liberalizací kapitálových toků, druhá etapa v roce 1994 zahrnovala založení Evropského měnového institutu, a třetí etapa, která zahrnovala zavedení eura, byla završena v roce 1999. Euro bylo následně uvedeno do fyzického oběhu v roce 2002.",
+    "Smlouva také zavedla tři pilíře Evropské unie: první pilíř tvořily Evropská společenství (ES), které zahrnovaly jednotný vnitřní trh a další komunitární politiky; druhý pilíř představovala Společná zahraniční a bezpečnostní politika (SZBP), která usilovala o jednotný postoj EU v mezinárodních vztazích; a třetí pilíř zahrnoval Spolupráci v oblasti spravedlnosti a vnitřních věcí (SVV), což zahrnovalo otázky jako azylová a imigrační politika, policejní spolupráce a justiční spolupráce v trestních věcech.",
+    "Maastrichtská smlouva významně rozšířila pravomoci Evropského parlamentu prostřednictvím zavedení postupu spolurozhodování. Tento postup, který později nahradil běžný legislativní postup, umožnil Parlamentu spolurozhodovat o řadě legislativních návrhů, čímž se posílila demokratická legitimita EU. Smlouva rovněž zavedla princip subsidiarity, podle kterého má Unie jednat pouze tehdy, pokud cíle zamýšleného opatření nemohou být uspokojivě dosaženy členskými státy na národní, regionální či místní úrovni.",
+    "Kritéria pro vstup do Hospodářské a měnové unie, známá jako maastrichtská kritéria nebo konvergenční kritéria, byla rovněž stanovena touto smlouvou. Tato kritéria zahrnují stabilitu cen (nízká inflace), udržitelnost veřejných financí (deficit veřejných financí pod 3 % HDP a veřejný dluh pod 60 % HDP), stabilitu směnného kurzu (účast v ERM II bez výrazných výkyvů) a konvergenci dlouhodobých úrokových sazeb. Splnění těchto kritérií je podmínkou pro přijetí eura jako měny daného státu. Smlouva tak vytvořila pevný rámec pro fiskální a měnovou disciplínu v rámci eurozóny."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "Kdy byla Maastrichtská smlouva podepsána?",
+      "options": ["1990", "1992", "1995"],
+      "correctAnswer": 1,
+      "explanation": "Maastrichtská smlouva byla podepsána 7. února 1992 v nizozemském městě Maastricht."
+    },
+    {
+      "id": "q2",
+      "question": "Kolik pilířů Evropské unie zavedla Maastrichtská smlouva?",
+      "options": ["2", "3", "4"],
+      "correctAnswer": 1,
+      "explanation": "Maastrichtská smlouva zavedla tři pilíře EU: Evropská společenství, Společnou zahraniční a bezpečnostní politiku a Spolupráci v oblasti spravedlnosti a vnitřních věcí."
+    },
+    {
+      "id": "q3",
+      "question": "Kdy vstoupila Maastrichtská smlouva v platnost?",
+      "options": ["1992", "1993", "1994"],
+      "correctAnswer": 1,
+      "explanation": "Maastrichtská smlouva vstoupila v platnost 1. listopadu 1993."
+    }
+  ],
+  "estimatedReadingTime": 10
+}

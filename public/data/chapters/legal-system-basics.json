@@ -1,0 +1,29 @@
+{
+  "id": "legal-system-basics",
+  "title": "Základy právního systému",
+  "description": "Úvod do struktury a fungování právního systému",
+  "content": [
+    "Právní systém představuje ucelený soubor právních norem, institucí a postupů, které regulují společenské vztahy v určitém státě. Každý právní systém má svou specifickou strukturu a charakteristické rysy.",
+    "Právní normy se dělí podle různých kritérií. Podle právní síly rozlišujeme ústavní zákony, zákony, podzákonné předpisy a další. Podle obsahu pak rozlišujeme právo veřejné a soukromé.",
+    "Veřejné právo upravuje vztahy, kde vystupuje stát nebo jiný nositel veřejné moci. Patří sem ústavní právo, správní právo, trestní právo a další odvětví.",
+    "Soukromé právo upravuje vztahy mezi rovnoprávnými subjekty. Hlavním odvětvím je občanské právo, které zahrnuje smluvní právo, vlastnické právo, rodinné právo a další oblasti.",
+    "Aplikace práva probíhá prostřednictvím různých právních postupů. Klíčovou roli hrají soudy, které rozhodují spory a vykládají právní normy v konkrétních případech."
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "Co upravuje veřejné právo?",
+      "options": ["Vztahy mezi rovnoprávnými subjekty", "Vztahy kde vystupuje stát", "Pouze trestní činy"],
+      "correctAnswer": 1,
+      "explanation": "Veřejné právo upravuje vztahy, kde vystupuje stát nebo jiný nositel veřejné moci."
+    },
+    {
+      "id": "q2",
+      "question": "Které právo patří do soukromého práva?",
+      "options": ["Trestní právo", "Občanské právo", "Správní právo"],
+      "correctAnswer": 1,
+      "explanation": "Občanské právo je hlavním odvětvím soukromého práva a upravuje vztahy mezi rovnoprávnými subjekty."
+    }
+  ],
+  "estimatedReadingTime": 5
+}

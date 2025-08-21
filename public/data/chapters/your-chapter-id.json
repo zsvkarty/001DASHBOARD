@@ -1,0 +1,20 @@
+{
+  "id": "your-chapter-id",
+  "title": "Your Chapter Title",
+  "description": "Brief description of the chapter",
+  "estimatedReadingTime": 15,
+  "content": [
+    "First paragraph of content.",
+    "**Bold text** and *italic text* are supported.",
+    "You can use Markdown formatting in the content."
+  ],
+  "quiz": [
+    {
+      "id": "1",
+      "question": "Your quiz question?",
+      "options": ["Option A", "Option B", "Option C", "Option D"],
+      "correctAnswer": 0,
+      "explanation": "Explanation of the correct answer"
+    }
+  ]
+}
